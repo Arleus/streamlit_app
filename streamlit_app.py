@@ -19,7 +19,7 @@ def load_data(file_path):
     return data
 
 # Especificar la ruta del archivo CSV
-file_path = r'D:\taller sot\prueba (1).csv'
+file_path = r'C:\Users\Arturo\streamlit_app\prueba (1).csv'
 
 # Cargar datos desde el archivo CSV local
 data = load_data(file_path)
