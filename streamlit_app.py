@@ -19,7 +19,7 @@ def load_data(file_path):
     return data
 
 # Especificar la ruta del archivo CSV
-file_path = r'C:\Users\Arturo\streamlit_app\microdato.csv'
+file_path = r'microdato.csv'
 
 # Cargar datos desde el archivo CSV local
 data = load_data(file_path)
